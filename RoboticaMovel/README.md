@@ -8,4 +8,4 @@ O objetivo do projeto é o controle e detecção de colisão de um robô diferen
 
 Este código está atualmente testado e funcionando com ROS Noetic e Ubuntu 20.04 LTS.
 
-$ roslaunch <PCK> <ARQUIVO.launch>
+$ roslaunch RoboticaMovel tb3control.launch
