@@ -1,4 +1,4 @@
-Equipe: Elza Meira Puppo, Ken Victor Okada Narita, Luiz Felipe Florintino, Maira Wehebrink
+Equipe: Ken Victor Okada Narita, Luiz Felipe Florintino, Maira Wehebrink
 
 Disciplina de Robótica Móvel, ministrada pelo Prof. Dr. Jeferson Lima
 
