@@ -22,9 +22,18 @@ Para instalar os arquivos necessáros para simulação do TurtleBot 3, se recome
 
 ## Utilizando o pacote
 
+Coloque os arquivos do pacote na pasta:
+```
+cd ~/catkin_ws/src/
+```
+E execute o make:
+```
+cd ~/catkin_ws && catkin_make
+```
+
 Abra o terminal e digite a linha de comando:
 
 ```
-$ roslaunch RoboticaMovel tb3control.launch
+roslaunch RoboticaMovel tb3control.launch
 ```
 
