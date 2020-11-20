@@ -11,11 +11,6 @@ Para instalar os arquivos necessários para simulação do TurtleBot 3, recomend
 
 ## Utilizando o pacote
 
-Coloque os arquivos do pacote na pasta:
-
-```
-catkin_ws/src/
-```
 Clone os arquivos para a pasta correta:
 ```
 cd ~/catkin_ws/src/
@@ -25,8 +20,6 @@ E execute o make:
 ```
 cd ~/catkin_ws && catkin_make
 ```
-
-Abra o terminal e digite a linha de comando:
 E para executa-lo, abra o terminal e digite a linha de comando:
 
 ```
